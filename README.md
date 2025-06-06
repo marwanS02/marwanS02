@@ -36,6 +36,8 @@ Real-Time Keyword Spotting on ESP32 (TUM & Infineon)Designed and deployed quanti
 
 EEG-VR Signal Classification (TUM – Neuroelectronics Group)Engineered EEG processing pipelines for real-time VR perception classification using machine learning techniques.
 
+Facial Keypoints Detection with Advanced HPO (TUM Course Project)Built a deep learning model to detect facial keypoints from images and implemented advanced hyperparameter optimization techniques using Random Search and Optuna for model tuning and generalization.
+
 Transformer for English-German Translation (TUM Course Project)Built and trained a transformer neural network from scratch for language translation tasks.
 
 Deep Learning for Multiple Sclerosis Detection (ULS Final Year Project)CNN-based model to classify MRI scans and accurately detect signs of Multiple Sclerosis.
@@ -58,7 +60,7 @@ Enhancing Tactile Material Classification with Self-Supervised Architectures (DL
 Novel MRI Image Segmentation Technique for Brain Inflammatory Diseases (ULS, 2022)
 
 - **Exosuit for Hand Rotation and Grasping Based on End-Effector-Level Sensor System** *(Editorial Review – TUM MIRMI, 2025)*  
-  A wearable robotic glove with real-time sensing and bidirectional control for teleoperation.
+  Developed a leader–follower wearable robot with embedded end-effector sensors to improve control accuracy in tendon-driven systems for teleoperation and rehabilitation.
 
 - **Detection of Multiple Sclerosis using Analog Integrated Neural Networks** *(Editorial Review – TUM MIBE, 2025)*  
   Research on implementing MS detection fully in the analog domain with ultra-low-power neural circuits.
