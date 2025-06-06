@@ -1,16 +1,102 @@
-## Hi there 👋
+👋 Hey there, I'm Marwan!
 
-<!--
-**marwanS02/marwanS02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Engineer | Embedded AI | Neurotech Enthusiast
 
-Here are some ideas to get you started:
+I'm Mohamad Marwan Sidani (I go by Marwan), a Medical Systems Engineer passionate about developing intelligent embedded solutions, neurotechnology innovations, and medical AI applications. Currently, I'm pursuing my Master's in Biomedical Engineering & Medical Physics at Technische Universität München (TUM) and contributing as a Working Student in Product Management at Brainlab, specializing in Cranial Navigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Research Interests & Expertise
+
+Embedded AI: Deploying optimized neural networks on resource-constrained hardware.
+
+Neurotechnology: Building interfaces between human neural activity and robotic systems.
+
+Biomedical Signal Processing: EEG/BCI, MRI imaging, and real-time bio-signal analysis.
+
+Advanced Human-Machine Interfaces: Developing intuitive control systems for medical robotics.
+
+🛠️ Tech Stack
+
+Languages: Python, C++, MATLAB, SQL, Bash
+
+AI Frameworks: PyTorch, TensorFlow, TensorFlow Lite, scikit-learn
+
+Embedded Systems: Arduino, Raspberry Pi, ESP32, Adafruit nRF52832 Bluefruit
+
+Communication Protocols: UART, SPI, I²C, CAN
+
+Hardware Design: FPGA (Vivado), Microcontroller Programming
+
+Safety & Compliance: IEC 60601, ISO 14971, EU MDR
+
+📚 Highlighted Projects
+
+Wearable Exosuit for Robotic Teleoperation (TUM – MIRMI)Developed a soft wearable exosuit providing real-time teleoperation and haptic feedback using AI-driven predictive models.
+
+Real-Time Keyword Spotting on ESP32 (TUM & Infineon)Designed and deployed quantized neural networks for low-power audio classification on embedded devices.
+
+EEG-VR Signal Classification (TUM – Neuroelectronics Group)Engineered EEG processing pipelines for real-time VR perception classification using machine learning techniques.
+
+Transformer for English-German Translation (TUM Course Project)Built and trained a transformer neural network from scratch for language translation tasks.
+
+Deep Learning for Multiple Sclerosis Detection (ULS Final Year Project)CNN-based model to classify MRI scans and accurately detect signs of Multiple Sclerosis.
+
+- **[Human-Computer Interface for ECG & EMG Signals](#)** *(ULS – Medical Devices Lab)*  
+  Designed and built a human–machine interface using Arduino with custom ECG and EMG circuits.
+
+- **[Analog Neural Network for MS Detection](#)** *(TUM – Collaborative Editorial Review)*  
+  Contributed to the design of low-power analog circuits performing MRI-based MS classification fully in the analog domain.
+
+- **[I-JEPA Tactile Classification](#)** *(TUM – Learning AI for Dextrous Robots Group)*  
+  Implemented a joint-embedding predictive architecture to classify materials using piezo-based tactile signals from robotic fingers.
+
+📖 Publications & Research
+
+Neurocomputational Modeling of Facilitation Effects in Neurons (MIBE, TUM, 2025 - To be published)
+
+Enhancing Tactile Material Classification with Self-Supervised Architectures (DLR, TUM, 2024 - To be published)
+
+Novel MRI Image Segmentation Technique for Brain Inflammatory Diseases (ULS, 2022)
+
+- **Exosuit for Hand Rotation and Grasping Based on End-Effector-Level Sensor System** *(Editorial Review – TUM MIRMI, 2025)*  
+  A wearable robotic glove with real-time sensing and bidirectional control for teleoperation.
+
+- **Detection of Multiple Sclerosis using Analog Integrated Neural Networks** *(Editorial Review – TUM MIBE, 2025)*  
+  Research on implementing MS detection fully in the analog domain with ultra-low-power neural circuits.
+
+🎓 Education
+
+M.Sc. Biomedical Engineering & Medical PhysicsTechnical University of Munich (2024–2025, Grade: 1,6)
+
+Diplôme d’Ingénieur Biomedical EngineeringUniversité La Sagesse, Beirut (2019–2024, GPA: 3.57)
+
+🏅 Certifications
+
+Medical Device Consultant (MPB), Brainlab GmbH
+
+CCNA Introduction to Networks v7.02, Cisco Academy
+
+Raspberry Pi & IoT Certification, IEEE
+
+Entrepreneurship Education Program, Berytech
+
+🌍 Languages
+
+🇬🇧 English (Fluent)
+
+🇫🇷 French (Fluent)
+
+🇱🇧 Arabic (Native)
+
+🇩🇪 German (Intermediate, A2)
+
+💬 Let's Connect!
+
+Feel free to reach out or collaborate!
+
+📧 MarwanSidani@outlook.com
+
+💼 LinkedIn
+
+🚀 Thanks for stopping by! Let's innovate together.
+
+
