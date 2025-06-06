@@ -42,14 +42,11 @@ Transformer for English-German Translation (TUM Course Project)Built and trained
 
 Deep Learning for Multiple Sclerosis Detection (ULS Final Year Project)CNN-based model to classify MRI scans and accurately detect signs of Multiple Sclerosis.
 
-- **[Human-Computer Interface for ECG & EMG Signals](#)** *(ULS – Medical Devices Lab)*  
-  Designed and built a human–machine interface using Arduino with custom ECG and EMG circuits.
+Human-Computer Interface for ECG & EMG Signals (ULS – Medical Devices Lab)Designed and built a human–machine interface using Arduino with custom ECG and EMG circuits.
 
-- **[Analog Neural Network for MS Detection](#)** *(TUM – Collaborative Editorial Review)*  
-  Contributed to the design of low-power analog circuits performing MRI-based MS classification fully in the analog domain.
+Analog Neural Network for MS Detection (TUM – Collaborative Editorial Review)Contributed to the design of low-power analog circuits performing MRI-based MS classification fully in the analog domain.
 
-- **[I-JEPA Tactile Classification](#)** *(TUM – Learning AI for Dextrous Robots Group)*  
-  Implemented a joint-embedding predictive architecture to classify materials using piezo-based tactile signals from robotic fingers.
+I-JEPA Tactile Classification (TUM – Learning AI for Dextrous Robots Group)Implemented a joint-embedding predictive architecture to classify materials using piezo-based tactile signals from robotic fingers.
 
 📖 Publications & Research
 
@@ -59,11 +56,9 @@ Enhancing Tactile Material Classification with Self-Supervised Architectures (DL
 
 Novel MRI Image Segmentation Technique for Brain Inflammatory Diseases (ULS, 2022)
 
-- **Exosuit for Hand Rotation and Grasping Based on End-Effector-Level Sensor System** *(Editorial Review – TUM MIRMI, 2025)*  
-  Developed a leader–follower wearable robot with embedded end-effector sensors to improve control accuracy in tendon-driven systems for teleoperation and rehabilitation.
+Exosuit for Hand Rotation and Grasping Based on End-Effector-Level Sensor System (Editorial Review – TUM MIRMI, 2025)  
 
-- **Detection of Multiple Sclerosis using Analog Integrated Neural Networks** *(Editorial Review – TUM MIBE, 2025)*  
-  Research on implementing MS detection fully in the analog domain with ultra-low-power neural circuits.
+Detection of Multiple Sclerosis using Analog Integrated Neural Networks(Editorial Review – TUM MIBE, 2025)  
 
 🎓 Education
 
