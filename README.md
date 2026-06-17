@@ -42,6 +42,7 @@ Quantized neural network deployment for real-time keyword/audio classification o
 
 ### Wearable Teleoperation System
 Real-time wearable control system combining magnetic tracking, EMG-based prediction, sensor calibration, and haptic feedback.
+https://github.com/marwanS02/Robot-Teleoperation.git
 
 ---
 
