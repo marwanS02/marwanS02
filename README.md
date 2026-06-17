@@ -37,9 +37,6 @@ Deep learning pipelines for MRI-based classification of multiple sclerosis, incl
 ### Biosignal Classification
 EEG and EMG machine learning pipelines for preprocessing, feature extraction, and intention/perception classification.
 
-### Local RAG Assistant
-Offline retrieval-augmented generation prototype using an open-source LLM and vector database for structured technical knowledge retrieval.
-
 ### Embedded Audio Classification
 Quantized neural network deployment for real-time keyword/audio classification on embedded hardware.
 
